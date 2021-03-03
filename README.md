@@ -1,8 +1,8 @@
 ### Hi there, I'm Suleman 👋
 
 
-- 🔭 I’m currently working on Web Development Project
-- 🌱 I’m currently learning ReactJs
+- 🔭 I’m currently working on Web Dev Projects
+- 🌱 I’m currently learning ReactJs [<img align="" alt="React" width="15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]()
 - 👯 I’m looking to collaborate with other Devs
 - 💬 Ask me about Anything related to Coding
 - 📫 How to reach me: [sydsulmn7@gmail.com](mailto:sydsulmn7@gmail.com)
@@ -31,9 +31,7 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]()
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]()
 </br>
-
-
-
+</br>
   <summary>:zap: GitHub Stats</summary>
 
  ![Suleman's GitHub stats](https://github-readme-stats.vercel.app/api?username=fsuleman2&show_icons=true&theme=radical)
