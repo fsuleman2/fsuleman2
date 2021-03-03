@@ -33,10 +33,8 @@
 </br>
 
 
-<details>
+
   <summary>:zap: GitHub Stats</summary>
 
  ![Suleman's GitHub stats](https://github-readme-stats.vercel.app/api?username=fsuleman2&show_icons=true&theme=radical)
-
-</details>
 
