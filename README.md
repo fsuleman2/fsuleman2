@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, I'm Suleman 👋
 
-<!--
-**fsuleman2/fsuleman2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Web Development Project
+- 🌱 I’m currently learning ReactJs and Polishing my DS & ALGO Skills
+- 👯 I’m looking to collaborate with other Devs
+- 💬 Ask me about Anything related to Coding
+- 📫 How to reach me: [sydsulmn7@gmail.com](mailto:sydsulmn7@gmail.com)
+- ⚡ Fun fact: Python was NOT named after a snake :snake:
 
-- 🔭 I’m currently working on ... Coursera Courses
-- 🌱 I’m currently learning ... ReactJs
-- 👯 I’m looking to collaborate with other Devlopers
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... Anything
-- 📫 How to reach me: ... 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Connect with me:
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
