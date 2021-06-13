@@ -2,7 +2,6 @@
 
 
 - 🔭 I’m currently working on Web Dev Projects
-<!-- - 🌱 I’m currently learning ReactJs [<img align="" alt="React" width="15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]() -->
 - 👯 I’m looking to collaborate with other Devs
 - 💬 Ask me about Anything related to Coding
 - 📫 How to reach me: [sydsulmn7@gmail.com](mailto:sydsulmn7@gmail.com)
@@ -40,3 +39,4 @@
  ## Certificates
  
  <img src="https://github.com/fsuleman2/fsuleman2/blob/master/0001.jpg" width=200px height=200px> <img src="https://github.com/fsuleman2/fsuleman2/blob/master/0002.jpg" width=200px height=200px>  <img src="https://github.com/fsuleman2/fsuleman2/blob/master/0003.jpg" width=200px height=200px>  <img src="https://github.com/fsuleman2/fsuleman2/blob/master/0004.jpg" width=200px height=200px>  <img src="https://github.com/fsuleman2/fsuleman2/blob/master/0005.jpg" width=200px height=200px> <img src="https://github.com/fsuleman2/fsuleman2/blob/master/0006.jpg" width=200px height=200px> <img src="https://github.com/fsuleman2/fsuleman2/blob/master/0007.jpg" width=200px height=200px> <img src="https://github.com/fsuleman2/fsuleman2/blob/master/Course%20Completion%20Certificate.jpg" width=200px height=200px>
+ <!-- - 🌱 I’m currently learning ReactJs [<img align="" alt="React" width="15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]() -->
