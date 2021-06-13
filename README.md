@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on Web Dev Projects
-- 🌱 I’m currently learning ReactJs [<img align="" alt="React" width="15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]()
+<!-- - 🌱 I’m currently learning ReactJs [<img align="" alt="React" width="15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]() -->
 - 👯 I’m looking to collaborate with other Devs
 - 💬 Ask me about Anything related to Coding
 - 📫 How to reach me: [sydsulmn7@gmail.com](mailto:sydsulmn7@gmail.com)
@@ -11,9 +11,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/suleman-syed-8571b7191/)
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/fsuleman2)
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/fsuleman2)
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/fsuleman5121)
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/fsuleman2)
 
 </br>
 
