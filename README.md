@@ -36,4 +36,7 @@
   <summary>:zap: GitHub Stats</summary>
 
  ![Suleman's GitHub stats](https://github-readme-stats.vercel.app/api?username=fsuleman2&show_icons=true&theme=radical)
-
+ 
+ ## Certificates
+ 
+ <img src="https://github.com/fsuleman2/fsuleman2/blob/master/0001.jpg" width=200px height=200px> <img src="https://github.com/fsuleman2/fsuleman2/blob/master/0002.jpg" width=200px height=200px>  <img src="https://github.com/fsuleman2/fsuleman2/blob/master/0003.jpg" width=200px height=200px>  <img src="https://github.com/fsuleman2/fsuleman2/blob/master/0004.jpg" width=200px height=200px>  <img src="https://github.com/fsuleman2/fsuleman2/blob/master/0005.jpg" width=200px height=200px> <img src="https://github.com/fsuleman2/fsuleman2/blob/master/0006.jpg" width=200px height=200px> <img src="https://github.com/fsuleman2/fsuleman2/blob/master/0007.jpg" width=200px height=200px> <img src="https://github.com/fsuleman2/fsuleman2/blob/master/0007.jpg" width=200px height=200px>
