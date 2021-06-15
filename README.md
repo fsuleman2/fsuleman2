@@ -7,6 +7,7 @@
 - 📫 How to reach me: [sydsulmn7@gmail.com](mailto:sydsulmn7@gmail.com)
 - ⚡ Fun fact: Python was NOT named after a snake :snake:
 - :red_circle: Portfolio : [Click Me](https://fsuleman2.github.io/portfolio_sul/)
+- :cyclone: Check out my [HackerRank Profile](https://www.hackerrank.com/fsuleman2)
 
 ### Connect with me:
 
