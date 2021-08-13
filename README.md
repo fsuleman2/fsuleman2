@@ -1,13 +1,13 @@
 ### Hi there, I'm Suleman 👋
 
 
-- 🔭 I’m currently working on Web Dev Projects
+- 🔭 I’m currently working on Java Full Stack Projects
 - 👯 I’m looking to collaborate with other Devs
 - 💬 Ask me about Anything related to Coding
 - 📫 How to reach me: [sydsulmn7@gmail.com](mailto:sydsulmn7@gmail.com)
 - ⚡ Fun fact: Python was NOT named after a snake :snake:
 - :red_circle: Portfolio : [Click Me](https://fsuleman2.github.io/portfolio_sul/)
-- :cyclone: Check out my [HackerRank Profile](https://www.hackerrank.com/fsuleman2)
+- :cyclone: Check out my [HackerRank Profile](https://www.hackerrank.com/dev_ssf)
 
 ### Connect with me:
 
@@ -23,7 +23,7 @@
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]()
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />]()
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]()
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]()
+<!-- [<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/angular.png" />]() -->
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]()
 [<img align="left" alt="Java" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />]()
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]()
