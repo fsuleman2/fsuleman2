@@ -8,13 +8,13 @@
 - ⚡ Fun fact: Python was NOT named after a snake :snake:
 - :red_circle: Portfolio : [Click Me](https://fsuleman2.github.io/portfolio_sul/)
 - :cyclone: Check out my [HackerRank Profile](https://www.hackerrank.com/dev_ssf)
-
+<!--
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/fsuleman2)
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/fsuleman2)
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/fsuleman2)
-
+-->
 </br>
 
 ### Languages and Tools:
