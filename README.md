@@ -1,44 +1,61 @@
-### Hi there, I'm Suleman 👋
+# Hi, I'm Suleman 👋
 
+### Software Engineer | AI Engineering | Full-Stack Development
 
-- 🔭 I’m currently working on Java Full Stack Projects
-- 👯 I’m looking to collaborate with other Devs
-- 💬 Ask me about Anything related to Coding
-- 📫 How to reach me: [sydsulmn7@gmail.com](mailto:sydsulmn7@gmail.com)
-- ⚡ Fun fact: Python was NOT named after a snake :snake:
-- :red_circle: Portfolio : [Click Me](https://fsuleman2.github.io/portfolio_sul/)
-- :cyclone: Check out my [HackerRank Profile](https://www.hackerrank.com/dev_ssf)
-<!--
-### Connect with me:
+I'm a Software Engineer at **Deloitte USI**, working in the AI & Engineering space.
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/fsuleman2)
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/fsuleman2)
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/fsuleman2)
--->
-</br>
+I enjoy building scalable applications, exploring Generative AI, and developing intelligent solutions using Agentic AI.
 
-### Languages and Tools:
+### 💻 Technical Skills
 
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]()
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]()
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />]()
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]()
-<!-- [<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/angular.png" />]() -->
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]()
-[<img align="left" alt="Java" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />]()
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]()
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]()
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]()
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]()
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]()
-</br>
-</br>
-  <summary>:zap: GitHub Stats</summary>
+**Languages**
+- Java, JavaScript, TypeScript, Python, SQL
 
- ![Suleman's GitHub stats](https://github-readme-stats.vercel.app/api?username=fsuleman2&show_icons=true&theme=radical)
- 
- ## Certificates
- 
- <img src="https://github.com/fsuleman2/fsuleman2/blob/master/0001.jpg" width=200px height=200px> <img src="https://github.com/fsuleman2/fsuleman2/blob/master/0002.jpg" width=200px height=200px>  <img src="https://github.com/fsuleman2/fsuleman2/blob/master/0003.jpg" width=200px height=200px>  <img src="https://github.com/fsuleman2/fsuleman2/blob/master/0004.jpg" width=200px height=200px>  <img src="https://github.com/fsuleman2/fsuleman2/blob/master/0005.jpg" width=200px height=200px> <img src="https://github.com/fsuleman2/fsuleman2/blob/master/0006.jpg" width=200px height=200px> <img src="https://github.com/fsuleman2/fsuleman2/blob/master/0007.jpg" width=200px height=200px> <img src="https://github.com/fsuleman2/fsuleman2/blob/master/Course%20Completion%20Certificate.jpg" width=200px height=200px>
- <!-- - 🌱 I’m currently learning ReactJs [<img align="" alt="React" width="15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]() -->
-[![@fsuleman2's Holopin board](https://holopin.io/api/user/board?user=fsuleman2)](https://holopin.io/@fsuleman2)
+**Backend & Frontend**
+- Spring Boot, Spring Framework, REST APIs
+- React, Angular, Node.js
+
+**AI & Generative AI**
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Agentic AI & Multi-Agent Systems
+- AI Agents and Google ADK
+
+**Tools & Technologies**
+- Git, GitHub, Docker, Postman, VS Code
+
+### 🚀 Featured Projects
+
+- [RealEstate Scout](https://github.com/fsuleman2/buildwithgemini-realestate-scout) – AI-powered real estate exploration.
+- [MindShift AI](https://github.com/fsuleman2/mindshift-ai) – AI-focused application.
+- [AutoSilent](https://github.com/fsuleman2/AutoSilent) – Location-based mobile automation.
+- [Notes Service](https://github.com/fsuleman2/notes-service) – Backend development project.
+
+### 🌱 Currently Exploring
+
+- Agentic AI architectures and orchestration
+- LLM-powered applications
+- AI-powered developer productivity tools
+- Open-source contributions
+
+### 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fsuleman2&show_icons=true&theme=radical)
+
+### 🏆 Certifications
+
+Explore my certifications and learning achievements in my repositories.
+
+### 🤝 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/fsuleman2)
+- [Portfolio](https://fsuleman2.github.io/portfolio_sul/)
+- [HackerRank](https://www.hackerrank.com/dev_ssf)
+- [GitHub](https://github.com/fsuleman2)
+- Email: sydsulmn7@gmail.com
+
+[![Holopin Board](https://holopin.io/api/user/board?user=fsuleman2)](https://holopin.io/@fsuleman2)
+
+---
+
+*Always learning, building and exploring what's next in software engineering and AI.*
